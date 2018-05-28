@@ -6,6 +6,7 @@ There is a build in sql-lite database and a django admin site that the user can 
 Technologies used:
 * python3
 * django
+* django template language {% %}
 * html-css
 * bootstrap3
      
